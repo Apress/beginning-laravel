@@ -2,7 +2,7 @@
 
 This repository accompanies [*Beginning Laravel*](http://www.apress.com/9781484225370) by Sanjib Sinha (Apress, 2016).
 
-![Cover image](9781484225370.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
